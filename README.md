@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Advi729/Advi729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me
  **adaladwaidvikas729@gmail.com**
 
-- 🌏 Visit to my <a href="https://advi729.github.io/">Portfolio</a>
+- 🌏 Visit to my <a href="https://advi729.github.io/Personal-site/">Portfolio</a>
 
 - 📃 Look at my [Resume](https://drive.google.com/drive/folders/1tTQ2k7uqUyTuq8oQMzW_qt7T75wp02jJ?usp=sharing) 
 
-- 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/Advi729)
+- 👨‍💻 All my projects are available at my [GitHub](https://github.com/Advi729)
 
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
