@@ -29,10 +29,10 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/adal-adwaid-vikas-318990214/" target="_blank"><img align="center"
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="ADAL"/></a>
-    <a href="https://www.instagram.com/____advi__729/" target="_open"><img align="center"
+    <a href="https://www.instagram.com/____advi__729/" target="_blank"><img align="center"
             src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
             alt="Advi729"/></a>
-    <a href="https://twitter.com/advi729" target="blank"><img align="center"
+    <a href="https://twitter.com/advi729" target="_blank"><img align="center"
             src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
             alt="adal"/></a>
     <!-- <a href="https://www.facebook.com/" target="blank"><img align="center"
@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me
  **adaladwaidvikas729@gmail.com**
 
-- 🌏 Visit to my <a href="https://advi729.github.io/Personal-site" target="blank">Portfolio</a>
+- 🌏 Visit to my <a href="https://advi729.github.io/Personal-site" target="_blank">Portfolio</a>
 
-- 📃 Look at my <a href="https://drive.google.com/file/d/1IoND51_TLFClb2qHe1KQnKO3QbFUtXDo/view?usp=sharing" target="blank">Resume</a>
+- 📃 Look at my <a href="https://drive.google.com/file/d/1IoND51_TLFClb2qHe1KQnKO3QbFUtXDo/view?usp=sharing" target="_blank">Resume</a>
 
-- 👨‍💻 All my projects are available at my <a href="https://github.com/Advi729" target="blank">Github</a>
+- 👨‍💻 All my projects are available at my <a href="https://github.com/Advi729" target="_blank">Github</a>
 
 <!-- - ⚡ Fun fact **World is Ending soon, So better commit your code before you....** -->
 
