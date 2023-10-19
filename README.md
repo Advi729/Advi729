@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 </div>   
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9">via GIPHY</a></p>
+
    
  
 <h1 align="center">Hello 👋, I'm ADAL ADWAID VIKAS</h1>
@@ -98,10 +98,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
         alt="reactjs" />
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white"
-        alt="jwt" />
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
-        alt="styled-components" />
+    <img src="https://img.shields.io/badge/jsonwebtokens-3bc7bd?style=for-the-badge&logo=jsonwebtokens&logoColor=white"
+        alt="jwt" />  
+    <img src="https://img.shields.io/badge/postgresql-DB7093?style=for-the-badge&logo=postgresql&logoColor=white"
+        alt="AWS" />
 </p>
 <p align="center"><img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Advi729&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p>    
