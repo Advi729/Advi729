@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 - 🌏 Visit to my <a href="https://advi729.github.io/Personal-site/">Portfolio</a>
 
-- 📃 Look at my [Resume](https://drive.google.com/drive/folders/1tTQ2k7uqUyTuq8oQMzW_qt7T75wp02jJ?usp=sharing) 
+- 📃 Look at my [Resume](https://drive.google.com/file/d/1IoND51_TLFClb2qHe1KQnKO3QbFUtXDo/view?usp=sharing) 
 
 - 👨‍💻 All my projects are available at my [GitHub](https://github.com/Advi729)
 
