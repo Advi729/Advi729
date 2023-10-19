@@ -24,15 +24,16 @@ Here are some ideas to get you started:
 <h3 align="center">A Full Stack Web Developer...</h3>
 <h4 align='center' >From Thrissur, Kerala </h4>
 <hr>
+<!-- [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkansaridiken/)  [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TFS_52)  [![](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tahirfurkansaridiken/)  [![](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkansaridiken@gmail.com)  [![](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/141582521572917248)  [![](https://img.shields.io/badge/Steam-%23000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/ecinosia)  [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ecinosia)  [![](https://img.shields.io/badge/StackOverFlow-%23F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19197144/furkan-sar%C4%B1diken) -->
 <p align="center">
     <a href="https://www.linkedin.com/in/adal-adwaid-vikas-318990214/" target="_blank"><img align="center"
-             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="ADAL" height="30" width="40" /></a>
     <a href="https://www.instagram.com/____advi__729/" target="_open"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="Advi729 height="30" width="40" /></a>
+            src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            alt="Advi729" height="30" width="40" /></a>
     <a href="https://twitter.com/advi729" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
             alt="adal" height="30" width="40" /></a>
     <!-- <a href="https://www.facebook.com/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
