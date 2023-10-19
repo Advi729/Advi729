@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="https://www.linkedin.com/in/adal-adwaid-vikas-318990214/" target="_blank"><img align="center"
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="ADAL" height="30" width="40" /></a>
+            alt="ADAL"/></a>
     <a href="https://www.instagram.com/____advi__729/" target="_open"><img align="center"
             src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            alt="Advi729" height="30" width="40" /></a>
+            alt="Advi729"/></a>
     <a href="https://twitter.com/advi729" target="blank"><img align="center"
             src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-            alt="adal" height="30" width="40" /></a>
+            alt="adal"/></a>
     <!-- <a href="https://www.facebook.com/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="" height="30" width="40" /></a>
