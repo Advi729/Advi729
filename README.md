@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me
  **adaladwaidvikas729@gmail.com**
 
-- 🌏 Visit my <a href="https://advi729.github.io/Personal-site" target="_blank">Portfolio</a>
+- 🌏 Visit my [Portfolio](https://advi729.github.io/Personal-site)
 
-- 📃 Look at my <a href="https://drive.google.com/file/d/1IoND51_TLFClb2qHe1KQnKO3QbFUtXDo/view?usp=sharing" target="_blank">Resume</a>
+- 📃 Look at my [Resume](https://drive.google.com/file/d/1IoND51_TLFClb2qHe1KQnKO3QbFUtXDo/view?usp=sharing)
 
 - 👨‍💻 All my projects are available at my [GitHub](https://github.com/Advi729)
 
