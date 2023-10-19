@@ -59,13 +59,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me
  **adaladwaidvikas729@gmail.com**
 
-- 🌏 Visit to my <a href="https://advi729.github.io/Personal-site/">Portfolio</a>
+- 🌏 Visit to my <a href="https://advi729.github.io/Personal-site" target="blank">Portfolio</a>
 
-- 📃 Look at my [Resume](https://drive.google.com/file/d/1IoND51_TLFClb2qHe1KQnKO3QbFUtXDo/view?usp=sharing) 
+- 📃 Look at my <a href="https://drive.google.com/file/d/1IoND51_TLFClb2qHe1KQnKO3QbFUtXDo/view?usp=sharing" target="blank">Resume</a>
 
-- 👨‍💻 All my projects are available at my [GitHub](https://github.com/Advi729)
+- 👨‍💻 All my projects are available at my <a href="https://github.com/Advi729" target="blank">Github</a>
 
-- ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
+<!-- - ⚡ Fun fact **World is Ending soon, So better commit your code before you....** -->
 
 
 
