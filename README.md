@@ -47,11 +47,11 @@ Here are some ideas to get you started:
             alt="" height="30" width="40" /></a> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Advi729&label=Profile%20views&color=0e75b6&style=flat"
-                      alt="Adal" />
+                      alt="profile-views" />
     </p>
     </br> 
     
-- 🔭 I’m a **Full Stack Web Development**
+- 🔭 I’m a **Full Stack Web Developer**
 
 - 🌱 I’m currently learning **React.JS**
 
@@ -60,11 +60,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me
  **adaladwaidvikas729@gmail.com**
 
-- 🌏 Visit to my <a href="https://advi729.github.io/Personal-site" target="_blank">Portfolio</a>
+- 🌏 Visit my <a href="https://advi729.github.io/Personal-site" target="_blank">Portfolio</a>
 
 - 📃 Look at my <a href="https://drive.google.com/file/d/1IoND51_TLFClb2qHe1KQnKO3QbFUtXDo/view?usp=sharing" target="_blank">Resume</a>
 
-- 👨‍💻 All my projects are available at my <a href="https://github.com/Advi729" target="_blank">Github</a>
+- 👨‍💻 All my projects are available at my [GitHub](https://github.com/Advi729)
 
 <!-- - ⚡ Fun fact **World is Ending soon, So better commit your code before you....** -->
 
